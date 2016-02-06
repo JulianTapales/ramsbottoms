@@ -1,0 +1,6 @@
+#Ignore node modules
+node_modules
+
+# Ignore scss
+.sass-cache
+.sass-cache/*
